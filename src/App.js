@@ -16,6 +16,7 @@ function App() {
       <Route path='/viewall' element={<ViewAll/>}/>
     </Routes>
     </BrowserRouter>
+    
   );
 }
 
